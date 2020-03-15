@@ -2,7 +2,7 @@ import React from 'react';
 import '../App.css';
 import Language from "../Language";
 import YouTubeVideo from "../YouTubeVideo";
-import RulesText from "../content/RulesText";
+import RulesText from "./RulesText";
 
 class Rules extends React.Component {
     render() {

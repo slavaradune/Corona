@@ -1,6 +1,6 @@
 import React from 'react'
 
-class RulesTextHeb extends React.Component{
+class WhiteOrangeExTextHeb extends React.Component{
 
     render() {
         return (
@@ -24,4 +24,4 @@ class RulesTextHeb extends React.Component{
     }
 }
 
-export default RulesTextHeb;
+export default WhiteOrangeExTextHeb;

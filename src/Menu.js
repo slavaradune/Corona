@@ -13,8 +13,11 @@ class Menu extends React.Component {
                 <Navbar.Brand href="/"><img src={logo} className="App-logo" alt="logo"/>{DICT.rules}</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav">
-                    <Nav className={mrClass}>
+                    <Nav>
                         <Nav.Link href="/kids4_5">{DICT.kids4_5}</Nav.Link>
+                    </Nav>
+                    <Nav>
+                        <Nav.Link href="/white_orange_belts">{DICT.white_orange_belts}</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
                 <Navbar.Collapse className="justify-content-end" id="responsive-navbar-nav-2">

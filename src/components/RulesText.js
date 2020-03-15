@@ -1,8 +1,8 @@
 import React from 'react';
 import '../App.css';
 import Language from "../Language";
-import RulesTextHeb from "./RulesTextHeb";
-import RulesTextRus from "./RulesTextRus";
+import RulesTextHeb from "../content/RulesTextHeb";
+import RulesTextRus from "../content/RulesTextRus";
 
 class RulesText extends React.Component {
 

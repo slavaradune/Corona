@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Language.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YouTubeVideo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Rules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TextFromFile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/RulesText.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/RulesTextHeb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/RulesTextRus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dicts/Hebrew.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dicts/Russian.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Menu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Menu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="75" lean-forward="true" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,35 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainRouter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainRouter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rules.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Rules.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -104,29 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RulesTextRus.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/content/RulesTextRus.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Hebrew.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RulesTextHeb.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/content/RulesTextHeb.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="17">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -134,8 +62,52 @@
       <file leaf-file-name="Russian.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dicts/Russian.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="153">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="100" column="32" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -154,9 +126,11 @@
     <findStrings>
       <find>ba</find>
       <find>babel-lo</find>
+      <find>React</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Radune\WebstormProjects\feast_in_time_of_corona\src\dicts`</dir>
+      <dir>C:\Users\Radune\WebstormProjects\feast_in_time_of_corona\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -173,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/Language.js" />
         <option value="$PROJECT_DIR$/src/Menu.js" />
         <option value="$PROJECT_DIR$/src/MainRouter.js" />
-        <option value="$PROJECT_DIR$/src/dicts/Russian.js" />
         <option value="$PROJECT_DIR$/src/components/rules_text_file.txt" />
         <option value="$PROJECT_DIR$/src/components/TextFromFile.js" />
         <option value="$PROJECT_DIR$/src/content/rules_text_file.js" />
@@ -182,11 +155,13 @@
         <option value="$PROJECT_DIR$/src/content/rules_text_heb.js" />
         <option value="$PROJECT_DIR$/src/components/Rules.js" />
         <option value="$PROJECT_DIR$/src/YouTubeVideo.js" />
-        <option value="$PROJECT_DIR$/src/dicts/Hebrew.js" />
         <option value="$PROJECT_DIR$/src/content/RulesTextRus.js" />
         <option value="$PROJECT_DIR$/src/content/RulesTextHeb.js" />
         <option value="$PROJECT_DIR$/src/content/RulesText.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/dicts/Hebrew.js" />
+        <option value="$PROJECT_DIR$/src/dicts/Russian.js" />
+        <option value="$PROJECT_DIR$/public/manifest.json" />
       </list>
     </option>
   </component>
@@ -224,6 +199,11 @@
             <path>
               <item name="feast_in_time_of_corona" type="b2602c69:ProjectViewProjectNode" />
               <item name="feast_in_time_of_corona" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feast_in_time_of_corona" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feast_in_time_of_corona" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="feast_in_time_of_corona" type="b2602c69:ProjectViewProjectNode" />
@@ -319,12 +299,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584269019051</updated>
-      <workItem from="1584269020556" duration="24175000" />
+      <workItem from="1584269020556" duration="25870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24175000" />
+    <option name="totallyTimeSpent" value="25870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
@@ -334,12 +314,12 @@
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="5" visible="true" weight="0.32995495" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32995495" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.2072072" />
       <window_info id="npm" order="0" sideWeight="0.50133336" side_tool="true" weight="0.24960254" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32882884" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32882884" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39977476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -369,13 +349,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Consts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -387,13 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -441,13 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dicts/Russian.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -488,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/RulesTextRus.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -519,6 +471,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dicts/Russian.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="100" column="32" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -531,8 +514,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>

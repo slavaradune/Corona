@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/Kids4_5ChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/Kids4_5ChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/WhiteOrangeChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/WhiteOrangeChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/YellowChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/YellowChTextHeb.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -91,8 +83,8 @@
       <file leaf-file-name="GreenExTextHeb.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -198,8 +190,8 @@
         <option value="$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js" />
         <option value="$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js" />
         <option value="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js" />
-        <option value="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" />
         <option value="$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js" />
+        <option value="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" />
         <option value="$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js" />
       </list>
     </option>
@@ -357,12 +349,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584269019051</updated>
-      <workItem from="1584269020556" duration="34169000" />
+      <workItem from="1584269020556" duration="34788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34169000" />
+    <option name="totallyTimeSpent" value="34788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
@@ -738,20 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -766,13 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="86" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -780,10 +751,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="86" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>

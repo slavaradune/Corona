@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Menu from "./Menu";
+import Language from "./Language";
+import MainRouter from "./MainRouter";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+    render() {
+        let hebStyle = '';
+        if (Language.getLanguage() === 'IL'){
+            hebStyle = 'HebStyle'
+        }
+        return (
+            <div className={"App " + hebStyle}>
+                <header>
+                    <Menu refresh={this.refresh.bind(this)}/>
+                </header>
+                <MainRouter/>
+            </div>
+        );
+    }
+
+    refresh() {
+        this.forceUpdate()
+    }
 }
 
 export default App;

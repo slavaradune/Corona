@@ -12,14 +12,17 @@ const DICT = {
 
     // youtube ids
     rules_video_id: 'WLeHTdxS84I',
-    kids4_5_exvideo: 'qFF1KRJvq3k',
-    kids4_5_chvideo: 'qFF1KRJvq3k',
-    white_orange_exvideo: 'qFF1KRJvq3k',
-    white_orange_chvideo: 'qFF1KRJvq3k',
-    blue_exvideo: 'qFF1KRJvq3k',
-    blue_chvideo: 'qFF1KRJvq3k',
-    green_exvideo: 'qFF1KRJvq3k',
-    green_chvideo: 'qFF1KRJvq3k',
+
+    kids4_5_exvideo: 'sS8G7N0Zo1E',
+    kids4_5_chvideo: 'bHqZ4Huq41Y',
+    white_orange_exvideo: 'L_8IEK2Qp6o',
+    white_orange_chvideo: 'V_E1w2e5uq8',
+    blue_exvideo: 'S0bf9whR7xA',
+    blue_chvideo: 'V_E1w2e5uq8',
+    yellow_exvideo: 'PmHykmlvpik',
+    yellow_chvideo: 'V_E1w2e5uq8',
+    green_exvideo: 'kDAnpIxYn0Y',
+    green_chvideo: 'V_E1w2e5uq8',
 
 };
 

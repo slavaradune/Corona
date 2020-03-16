@@ -6,7 +6,7 @@ class YellowExTextRus extends React.Component{
         return (
             <div>
                 <li>Разминка (5 мин)</li>
-                <li>Разтяжки (5 мин)</li>
+                <li>Растяжки (5 мин)</li>
                 <li>25-50 отжиманий</li>
                 <li>40 выпадов в сторону</li>
                 <li>Пресс подъем ног (30 сек)</li>

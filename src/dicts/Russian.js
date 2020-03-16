@@ -7,7 +7,8 @@ const DICT = {
     green_belts: 'Зеленые пояса',
     exercise: 'Задание',
     challenge: 'Челлендж',
-
+    time_till_the_end: 'Время до конца задания: ',
+    time_elapsed: 'Задание окончено, просим подождать следующего задания',
 
 
     // youtube ids
@@ -23,6 +24,9 @@ const DICT = {
     yellow_chvideo: 'V_E1w2e5uq8',
     green_exvideo: 'kDAnpIxYn0Y',
     green_chvideo: 'V_E1w2e5uq8',
+
+    end_date: Date.parse('2020-03-17 23:59:59')
+
 
 };
 

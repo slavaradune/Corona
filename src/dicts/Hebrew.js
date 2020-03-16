@@ -7,6 +7,8 @@ const DICT = {
     green_belts: 'חגורות ירוקות',
     exercise: 'משימה',
     challenge: 'אתגר',
+    time_till_the_end: 'זמן עד סוף המשימה: ',
+    time_elapsed: 'המשימה נגמרה, נא להמתין למשימה הבאה',
 
 
     // youtube ids
@@ -23,7 +25,7 @@ const DICT = {
     green_exvideo: 'kDAnpIxYn0Y',
     green_chvideo: 'V_E1w2e5uq8',
 
-
+    end_date: Date.parse('2020-03-17 23:59:59')
 
 };
 

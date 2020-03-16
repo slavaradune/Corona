@@ -9,6 +9,10 @@ const DICT = {
     challenge: 'אתגר',
     time_till_the_end: 'זמן עד סוף המשימה: ',
     time_elapsed: 'המשימה נגמרה, נא להמתין למשימה הבאה',
+    standings: 'טבלת תוצאות',
+    name: 'שם',
+    city: 'עיר',
+    total_points: 'ניקוד מצטבר',
 
 
     // youtube ids

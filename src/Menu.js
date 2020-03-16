@@ -38,6 +38,9 @@ class Menu extends React.Component {
                     <Nav>
                         <Nav.Link href="/green_belts" style={{color: 'green'}}>{DICT.green_belts}</Nav.Link>
                     </Nav>
+                    <Nav>
+                        <Nav.Link href="/standings" style={{color: 'red'}}>{DICT.standings}</Nav.Link>
+                    </Nav>
                 </Navbar.Collapse>
                 <Navbar.Collapse className="justify-content-end" id="responsive-navbar-nav-2">
                     <Nav>

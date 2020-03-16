@@ -9,6 +9,10 @@ const DICT = {
     challenge: 'Челлендж',
     time_till_the_end: 'Время до конца задания: ',
     time_elapsed: 'Задание окончено, просим подождать следующего задания',
+    standings: 'Турнирная таблица',
+    name: 'Имя',
+    city: 'Город',
+    total_points: 'Набранные баллы',
 
 
     // youtube ids

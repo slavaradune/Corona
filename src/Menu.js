@@ -9,7 +9,18 @@ class Menu extends React.Component {
         let DICT = Language.getDict();
         return(
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-                <Navbar.Brand href="/"><img src={logo} className="App-logo" alt="logo"/>{DICT.rules}</Navbar.Brand>
+                <ReactFlagsSelect defaultCountry={Language.getLanguage()}
+                                  countries={["IL", "RU"]}
+                    // customLabels={{"IL": "עיברית","RU": "Русский"}}
+                                  alignOptions="right"
+                                  showSelectedLabel={false}
+                                  showOptionLabel={false}
+                                  onSelect={(lan => {Language.changeLanguage(lan); this.props.refresh()})}>
+                </ReactFlagsSelect>
+                <Navbar.Brand href="/">
+                    <img src={logo} className="App-logo" alt="logo"/>
+                    {DICT.rules}
+              </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav>
@@ -30,14 +41,7 @@ class Menu extends React.Component {
                 </Navbar.Collapse>
                 <Navbar.Collapse className="justify-content-end" id="responsive-navbar-nav-2">
                     <Nav>
-                            <ReactFlagsSelect defaultCountry={Language.getLanguage()}
-                                              countries={["IL", "RU"]}
-                                              // customLabels={{"IL": "עיברית","RU": "Русский"}}
-                                              alignOptions="right"
-                                              showSelectedLabel={false}
-                                              showOptionLabel={false}
-                                              onSelect={(lan => {Language.changeLanguage(lan); this.props.refresh()})}>
-                            </ReactFlagsSelect>
+
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

@@ -1,5 +1,5 @@
 const DICT = {
-    rules: 'חוקי התחרות',
+    rules: 'כללי התחרות',
     kids4_5: 'ילדים בני 4-5',
     white_orange_belts: 'ילדים בני 6+ חגורות לבנות וכתומות',
     blue_belts: 'חגורות כחולות',
@@ -10,7 +10,7 @@ const DICT = {
 
 
     // youtube ids
-    rules_video_id: 'bADX4OFGr4Y',
+    rules_video_id: 'dJff7I7OosU',
     kids4_5_exvideo: 'qFF1KRJvq3k',
     kids4_5_chvideo: 'qFF1KRJvq3k',
     white_orange_exvideo: 'qFF1KRJvq3k',

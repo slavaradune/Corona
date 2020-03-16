@@ -2,7 +2,7 @@ import React from 'react'
 import {Navbar, Nav} from 'react-bootstrap'
 import Language from './Language'
 import ReactFlagsSelect from 'react-flags-select';
-import logo from './ashkelon-logo.svg';
+import logo from './Kokoro.svg';
 
 class Menu extends React.Component {
     render() {

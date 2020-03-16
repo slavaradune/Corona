@@ -3,17 +3,17 @@
   "name": "Corona Fight Tournament",
   "icons": [
     {
-      "src": "ashkelon-logo.ico",
+      "src": "Kokoro.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "ashkelon-logo192.jpg",
+      "src": "Kokoro.png",
       "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "ashkelon-logo.jpg",
+      "src": "Kokoro.png",
       "type": "image/jpg",
       "sizes": "512x512"
     }

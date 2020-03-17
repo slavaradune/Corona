@@ -37,8 +37,12 @@ class Standings extends React.Component {
                 scope: 'https://www.googleapis.com/auth/spreadsheets'
             })
             .then(() => {
-                load(this.onLoad);
-            });
+                    load(this.onLoad);
+                },
+                () => {
+                    let DICT = Language.getDict();
+                    this.setState({ error: DICT.disable_cookies_instruction });
+                });
     };
 
     render() {
@@ -60,20 +64,20 @@ class Standings extends React.Component {
                 <tbody>
                 {standings.sort((a, b) => b.total_points - a.total_points).map((standing, i) => (
                     (standing.name !== '') ?
-                    <tr key={i}>
-                        <td>
-                            {(i + 1)}
-                        </td>
-                        <td>
-                            {standing.name}
-                        </td>
-                        <td>
-                            {standing.city}
-                        </td>
-                        <td>
-                            {standing.total_points}
-                        </td>
-                    </tr> :
+                        <tr key={i}>
+                            <td>
+                                {(i + 1)}
+                            </td>
+                            <td>
+                                {standing.name}
+                            </td>
+                            <td>
+                                {standing.city}
+                            </td>
+                            <td>
+                                {standing.total_points}
+                            </td>
+                        </tr> :
                         undefined
                 ))}
                 </tbody>

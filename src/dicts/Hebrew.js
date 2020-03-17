@@ -13,6 +13,9 @@ const DICT = {
     name: 'שם',
     city: 'עיר',
     total_points: 'ניקוד מצטבר',
+    disable_cookies_instruction: 'אם אתם רואים את ההודעה הזאת אז צריך לעשות את השלבים הבאים: כדי לראות את הטבלה צריך לבטל את האופציה הבאה \'block third-party cookies\'. ' +
+    'ב Chrome עושים את זה בצורה הבאה: נכנסים ל Settings->Site settings->Cookies ' +
+    'ומורידים את הV מ Block third-party cookies ',
 
 
     // youtube ids

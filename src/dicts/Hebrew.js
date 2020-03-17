@@ -17,18 +17,18 @@ const DICT = {
     // youtube ids
     rules_video_id: 'dJff7I7OosU',
 
-    kids4_5_exvideo: 'sS8G7N0Zo1E',
-    kids4_5_chvideo: 'bHqZ4Huq41Y',
-    white_orange_exvideo: 'L_8IEK2Qp6o',
-    white_orange_chvideo: 'V_E1w2e5uq8',
-    blue_exvideo: 'S0bf9whR7xA',
-    blue_chvideo: 'V_E1w2e5uq8',
-    yellow_exvideo: 'PmHykmlvpik',
-    yellow_chvideo: 'V_E1w2e5uq8',
-    green_exvideo: 'kDAnpIxYn0Y',
-    green_chvideo: 'V_E1w2e5uq8',
+    kids4_5_exvideo: 'geGOJ8AyT08',
+    kids4_5_chvideo: 'pu56t5abfQo',
+    white_orange_exvideo: 'GgN-D-OKBus',
+    white_orange_chvideo: 'NQ39pcHgPtk',
+    blue_exvideo: 'E6IEUJ0FQTI',
+    blue_chvideo: 'NQ39pcHgPtk',
+    yellow_exvideo: 'uJnaev6qXWM',
+    yellow_chvideo: 'NQ39pcHgPtk',
+    green_exvideo: 'SlTBV9UallQ',
+    green_chvideo: 'NQ39pcHgPtk',
 
-    end_date: Date.parse('2020-03-17 23:59:59')
+    end_date: Date.parse('2020-03-19 23:59:59')
 
 };
 

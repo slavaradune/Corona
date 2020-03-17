@@ -5,7 +5,7 @@ class Kids4_5ChTextHeb extends React.Component {
     render() {
         return (
             <div>
-                עמידה על אגרופים למשך כמה שיותר זמן על משטח קשה
+                עמידה על רגל אחת למשך זמן מקסימאלי (מותר לקפוץ)
             </div>
         )
     }

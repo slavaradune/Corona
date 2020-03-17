@@ -5,7 +5,7 @@ class WhiteOrangeChTextHeb extends React.Component{
     render() {
         return (
             <div>
-                עמידה על אצבעות למשך כמה שיותר זמן על משטח קשה
+                החזקה של רגל ביוקוגרי בגובה המותן למשך זמן מקיסמאלי
             </div>
         )
     }

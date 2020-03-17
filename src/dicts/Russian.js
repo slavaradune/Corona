@@ -13,9 +13,6 @@ const DICT = {
     name: 'Имя',
     city: 'Город',
     total_points: 'Набранные баллы',
-    disable_cookies_instruction: 'Если вы видите это сообщение значит надо сделать следующие: для того чтоб увидеть таблицу надо отменить опцию \'block third-party cookies\'. ' +
-                                'в Chrome это делается так: заходим в Settings->Site settings->Cookies ' +
-                                'и убираем галочку с Block third-party cookies ',
 
 
     // youtube ids

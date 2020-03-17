@@ -1,53 +1,40 @@
 import React from 'react';
-import config from '../config';
-import {load} from './spreadsheet';
 import {Table} from 'react-bootstrap';
 import Language from "../Language";
+import {Consts} from '../Consts';
 
 
 class Standings extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            standings: [],
+            standings: null,
             error: null
         }
     }
 
 
     componentDidMount() {
-        window.gapi.load("client", this.initClient);
+        fetch(Consts.server_url + '/standings', {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            // mode: 'no-cors'
+        }).then(result => {
+            result.json().then(
+            data => this.setState({standings: data.result})
+        )
+        })
     }
 
-    onLoad = (data, error) => {
-        if (data) {
-            const standings = data.standings;
-            this.setState({ standings: standings });
-        } else {
-            this.setState({ error: error.message });
-        }
-    };
-
-    initClient = () => {
-        window.gapi.client
-            .init({
-                apiKey: config.apiKey,
-                clientId: config.clientId,
-                discoveryDocs: config.discoveryDocs,
-                scope: 'https://www.googleapis.com/auth/spreadsheets'
-            })
-            .then(() => {
-                    load(this.onLoad);
-                },
-                () => {
-                    let DICT = Language.getDict();
-                    this.setState({ error: DICT.disable_cookies_instruction });
-                });
-    };
 
     render() {
         let DICT = Language.getDict();
         const { standings, error } = this.state;
+        if (!standings) {
+            return null
+        }
         if (error) {
             return <div>{this.state.error}</div>;
         }

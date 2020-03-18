@@ -5,6 +5,7 @@
 .App-logo {
   height: 8vmin;
   pointer-events: none;
+  margin: 10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -15,6 +16,10 @@
 
 .FlagSelector {
   background-color: white;
+}
+
+.VideosCarousel {
+  direction: ltr;
 }
 
 .HebStyle {

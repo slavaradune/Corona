@@ -19,7 +19,7 @@ class Menu extends React.Component {
                 </ReactFlagsSelect>
                 <Navbar.Brand href="/">
                     <img src={logo} className="App-logo" alt="logo"/>
-                    {DICT.rules}
+                    {DICT.title}
               </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav">

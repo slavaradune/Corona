@@ -13,6 +13,7 @@ const DICT = {
     name: 'Имя',
     city: 'Город',
     total_points: 'Набранные баллы',
+    title: 'Corona Fight',
 
 
     // youtube ids

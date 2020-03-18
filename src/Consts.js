@@ -3,7 +3,8 @@ import {DICT  as Russian} from './dicts/Russian'
 
 const Consts = {
     default_language: 'IL',
-    server_url: 'https://corona-fighting-server.herokuapp.com'
+    server_url: 'https://corona-fighting-server.herokuapp.com',
+    highlights: ["https://www.youtube.com/embed/smNrIhb-WLg"]
 };
 
 const SupportedLanguages = ['IL', 'RU'];

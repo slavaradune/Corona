@@ -13,6 +13,7 @@ const DICT = {
     name: 'שם',
     city: 'עיר',
     total_points: 'ניקוד מצטבר',
+    title: 'Corona Fight',
 
     // youtube ids
     rules_video_id: 'dJff7I7OosU',

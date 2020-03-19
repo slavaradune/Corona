@@ -19,7 +19,7 @@ const DICT = {
     // youtube ids
     rules_video_id: 'WLeHTdxS84I',
 
-    kids4_5_exvideo: 'Ckxf2T_iksw&t',
+    kids4_5_exvideo: 'Ckxf2T_iksw',
     kids4_5_chvideo: 'VdTU3Y8FDjU',
     white_orange_exvideo: 'TtVnzWf-oIo',
     white_orange_chvideo: 'PsHBDWO_PT0',

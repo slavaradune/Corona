@@ -5,7 +5,7 @@ class WhiteOrangeChTextHeb extends React.Component{
     render() {
         return (
             <div>
-                כמות מקסימאלית של בעיטות יוקו גרי <b>לגובה הראש</b>
+                כמות מקסימאלית של בעיטות יוקו גרי בדקה אחת <b>לגובה הראש</b>
                 <br/>
                 <br/>
                 10 נק - מעל 70 בעיטות<br/>

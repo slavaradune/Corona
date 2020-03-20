@@ -5,7 +5,7 @@ class BlueChTextRus extends React.Component{
     render() {
         return (
             <div>
-                Максимальное количество ударов еко гери <b>в уровень головы</b>
+                Максимальное количество ударов еко гери в минуту <b>в уровень головы</b>
                 <br/>
                 <br/>
 

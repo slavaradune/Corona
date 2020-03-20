@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/StandingDetails.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Consts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Consts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VideosCarousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/VideosCarousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YouTubeVideo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/YouTubeVideo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Standings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Standings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dicts/Hebrew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Hebrew.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dicts/Russian.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Russian.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StandingDetails.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StandingDetails.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/StandingDetails.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+            <state relative-caret-position="308">
+              <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -48,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Consts.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Consts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Consts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -160,10 +153,10 @@
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/VideosCarousel.js" />
         <option value="$PROJECT_DIR$/src/components/Standings.js" />
-        <option value="$PROJECT_DIR$/src/Consts.js" />
         <option value="$PROJECT_DIR$/src/dicts/Hebrew.js" />
         <option value="$PROJECT_DIR$/src/dicts/Russian.js" />
         <option value="$PROJECT_DIR$/src/components/StandingDetails.js" />
+        <option value="$PROJECT_DIR$/src/Consts.js" />
       </list>
     </option>
   </component>
@@ -319,12 +312,12 @@
       <updated>1584269019051</updated>
       <workItem from="1584269020556" duration="34788000" />
       <workItem from="1584330081531" duration="46515000" />
-      <workItem from="1584646042396" duration="11363000" />
+      <workItem from="1584646042396" duration="11779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92666000" />
+    <option name="totallyTimeSpent" value="93082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
@@ -335,9 +328,9 @@
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.12837838" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.12837838" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.16815743" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.1677928" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39977476" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.1277506" />
@@ -707,16 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Consts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -733,10 +716,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/StandingDetails.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+        <state relative-caret-position="308">
+          <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Consts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>

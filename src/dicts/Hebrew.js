@@ -7,6 +7,8 @@ const DICT = {
     green_belts: 'חגורות ירוקות',
     exercise: 'משימה',
     challenge: 'אתגר',
+    both: 'ביחד',
+    date: 'תאריך',
     time_till_the_end: 'זמן עד סוף המשימה: ',
     time_elapsed: 'המשימה נגמרה, נא להמתין למשימה הבאה',
     standings: 'טבלת תוצאות',

@@ -2,6 +2,7 @@ import React from 'react';
 import {Table} from 'react-bootstrap';
 import Language from "../Language";
 import {Consts} from '../Consts';
+import StandingDetails from "./StandingDetails";
 
 
 class Standings extends React.Component {
@@ -9,7 +10,8 @@ class Standings extends React.Component {
         super(props);
         this.state = {
             standings: null,
-            error: null
+            error: null,
+            selected: [],
         }
     }
 
@@ -20,11 +22,15 @@ class Standings extends React.Component {
             headers: {
                 'Content-Type': 'application/json'
             },
-            // mode: 'no-cors'
         }).then(result => {
             result.json().then(
-            data => this.setState({standings: data.result})
-        )
+                data => {
+                    let arr;
+                    (arr = []).length = data.result.length;
+                    arr.fill(false);
+                    this.setState({standings: data.result, selected: arr})
+                }
+            )
         })
     }
 
@@ -51,26 +57,30 @@ class Standings extends React.Component {
                 <tbody>
                 {standings.sort((a, b) => b.total_points - a.total_points).map((standing, i) => (
                     (standing.name !== '') ?
-                        <tr key={i}>
-                            <td>
-                                {(i + 1)}
-                            </td>
-                            <td>
-                                {standing.name}
-                            </td>
-                            <td>
-                                {standing.city}
-                            </td>
-                            <td>
-                                {standing.total_points}
-                            </td>
-                        </tr> :
-                        undefined
-                ))}
-                </tbody>
-            </Table>
-        );
-    }
-}
+                        [
+                                <tr key={i} onClick={() => {
+                                    this.state.selected[i] = (!this.state.selected[i]);
+                                    this.setState({selected: this.state.selected})}}>
+                                    <td>
+                                        {(i + 1)}
+                                    </td>
+                                    <td>
+                                        {standing.name}
+                                    </td>
+                                    <td>
+                                        {standing.city}
+                                    </td>
+                                    <td>
+                                        {standing.total_points}
+                                    </td>
+                                </tr>
+                            , (this.state.selected[i]) ? <StandingDetails standing_details={standing.standing_details}/> : undefined] :
+                                undefined
+                                ))}
+                            </tbody>
+                            </Table>
+                );
+                }
+                }
 
-export default Standings;
+                export default Standings;

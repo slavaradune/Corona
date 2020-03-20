@@ -12,10 +12,21 @@ class YouTubeVideo extends React.Component {
             }
         };
         return (
-            <div className="Video">
-                <YouTube
-                    videoId={this.props.videoId}
-                    opts={opts}/>
+            <div
+                style={{textAlign: 'center'}}
+            >
+                <div className='Video'>
+                    <iframe
+                        style={{
+                            position: "relative",
+                            top: 0,
+                            width: "100%",
+                            height: "100%"
+                        }}
+                        src={`https://www.youtube.com/embed/${this.props.videoId}`}
+                        frameBorder="0"
+                    />
+                </div>
             </div>
         );
     }

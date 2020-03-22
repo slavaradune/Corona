@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/BlueChTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/BlueChTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/GreenChTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/GreenChTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/Kids4_5ChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/Kids4_5ChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/Kids4_5ChTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/Kids4_5ChTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/WhiteOrangeChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/WhiteOrangeChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/WhiteOrangeChTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/WhiteOrangeChTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/YellowChTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/YellowChTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/challenge/YellowChTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/YellowChTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/BlueExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/BlueExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/GreenExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/GreenExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/YellowExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/YellowExTextRus.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dicts/Hebrew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Hebrew.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dicts/Russian.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Russian.js" afterDir="false" />
     </list>
@@ -47,20 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Russian.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Russian.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dicts/Russian.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="32" selection-end-column="33" />
+            <state relative-caret-position="200">
+              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hebrew.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hebrew.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            <state relative-caret-position="183">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -214,8 +193,8 @@
         <option value="$PROJECT_DIR$/src/content/challenge/YellowChTextHeb.js" />
         <option value="$PROJECT_DIR$/src/content/challenge/GreenChTextHeb.js" />
         <option value="$PROJECT_DIR$/src/content/challenge/BlueChTextHeb.js" />
-        <option value="$PROJECT_DIR$/src/dicts/Russian.js" />
         <option value="$PROJECT_DIR$/src/dicts/Hebrew.js" />
+        <option value="$PROJECT_DIR$/src/dicts/Russian.js" />
       </list>
     </option>
   </component>
@@ -366,25 +345,25 @@
       <workItem from="1584269020556" duration="34788000" />
       <workItem from="1584330081531" duration="46515000" />
       <workItem from="1584646042396" duration="18174000" />
-      <workItem from="1584808083259" duration="5604000" />
+      <workItem from="1584808083259" duration="6450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105081000" />
+    <option name="totallyTimeSpent" value="105927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49866667" visible="true" weight="0.16534181" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49866667" visible="true" weight="0.16534181" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.12837838" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2844365" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.35599285" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.35599285" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39977476" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.1277506" />
@@ -768,17 +747,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dicts/Russian.js">
+    <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="183">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
+    <entry file="file://$PROJECT_DIR$/src/dicts/Russian.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state relative-caret-position="200">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
         </state>
       </provider>
     </entry>

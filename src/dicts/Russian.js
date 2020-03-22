@@ -32,7 +32,7 @@ const DICT = {
     green_exvideo: 'qIwVV3odsgY',
     green_chvideo: 'Aumf_Ovmwl0',
 
-    end_date: Date.parse('2020-03-21 23:59:59')
+    end_date: Date.parse('2020-03-23 23:59:59')
 
 
 };

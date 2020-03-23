@@ -5,6 +5,8 @@ class Kids4_5ExTextRus extends React.Component{
     render() {
         return (
             <div>
+                <b>Уроки теже что и прошедшие два дня</b>
+                <br/>
                 <li>Разминка (5 мин)</li>
                 <li>Растяжки (5 мин)</li>
                 <li>10 кувырков вперед</li>

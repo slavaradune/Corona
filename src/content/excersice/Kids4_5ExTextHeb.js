@@ -5,6 +5,8 @@ class Kids4_5ExTextHeb extends React.Component{
     render() {
         return (
             <div>
+                <b>השיעורים הם כמו של היומיים הקודמים</b>
+                <br/>
                 <li>חימום (5 דק')</li>
                 <li>מתיחות (5 דק')</li>
                 <li>10 גילגולים קדימה</li>

@@ -5,6 +5,8 @@ class BlueExTextHeb extends React.Component{
     render() {
         return (
             <div>
+                <b>השיעורים הם כמו של היומיים הקודמים</b>
+                <br/>
                 <li>חימום (5 דק')</li>
                 <li>מתיחות (5 דק')</li>
                 <li>3 סטים: 30 שניות ריצה על הידיים במקום</li>

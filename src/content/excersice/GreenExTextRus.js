@@ -5,6 +5,8 @@ class BlueExTextRus extends React.Component{
     render() {
         return (
             <div>
+                <b>Уроки теже что и прошедшие два дня</b>
+                <br/>
                 <li>Разминка (5 мин)</li>
                 <li>Растяжки (5 мин)</li>
                 <li>3 сета по 15 отжиманий узким хватом 3 счета вниз 1 счет наверх</li>

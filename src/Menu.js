@@ -24,6 +24,9 @@ class Menu extends React.Component {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav>
+                        <Nav.Link href="/stretching" style={{color: 'pink'}}>{DICT.stretching}</Nav.Link>
+                    </Nav>
+                    <Nav>
                         <Nav.Link href="/kids4_5" style={{color: 'white'}}>{DICT.kids4_5}</Nav.Link>
                     </Nav>
                     <Nav>

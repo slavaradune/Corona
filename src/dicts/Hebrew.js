@@ -16,8 +16,10 @@ const DICT = {
     city: 'עיר',
     total_points: 'ניקוד מצטבר',
     title: 'Corona Fight',
+    stretching: 'חימום ומתיחות',
 
     // youtube ids
+    stretching_id: 'AD6igTFbiRE',
     rules_video_id: 'dJff7I7OosU',
 
     kids4_5_exvideo: '91m1vzFB10E',

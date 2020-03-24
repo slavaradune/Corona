@@ -16,9 +16,11 @@ const DICT = {
     city: 'Город',
     total_points: 'Набранные баллы',
     title: 'Corona Fight',
+    stretching: 'Разминка и растяжки',
 
 
     // youtube ids
+    stretching_id: 'AD6igTFbiRE',
     rules_video_id: 'WLeHTdxS84I',
 
     kids4_5_exvideo: '91m1vzFB10E',

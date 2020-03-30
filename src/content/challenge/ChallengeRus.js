@@ -1,6 +1,6 @@
 import React from 'react'
 
-class BlueChTextRus extends React.Component{
+class ChallengeRus extends React.Component{
 
     render() {
         return (
@@ -26,4 +26,4 @@ class BlueChTextRus extends React.Component{
     }
 }
 
-export default BlueChTextRus;
+export default ChallengeRus;

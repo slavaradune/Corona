@@ -6,17 +6,19 @@ import YellowExTextHeb from '../content/excersice/YellowExTextHeb';
 import YellowExTextRus from '../content/excersice/YellowExTextRus';
 import YellowChTextHeb from '../content/challenge/YellowChTextHeb';
 import YellowChTextRus from '../content/challenge/YellowChTextRus';
+import ChallengeHeb from "../content/challenge/ChallengeHeb";
+import ChallengeRus from "../content/challenge/ChallengeRus";
 
 class YellowBelts extends React.Component {
     render() {
         let DICT = Language.getDict();
         let extext = (Language.getLanguage() === 'IL') ? <YellowExTextHeb/> : <YellowExTextRus/>;
-        let chtext = (Language.getLanguage() === 'IL') ? <YellowChTextHeb/> : <YellowChTextRus/>;
+        let chtext = (Language.getLanguage() === 'IL') ? <ChallengeHeb/> : <ChallengeRus/>;
         return (
             <AbstractExerciseComponent
                 exvideo={DICT.yellow_exvideo}
                 extext={extext}
-                chvideo={DICT.yellow_chvideo}
+                chvideo={DICT.ch_video}
                 chtext={chtext}
             />
         );

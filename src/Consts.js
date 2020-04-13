@@ -6,6 +6,7 @@ const Consts = {
     server_url: 'https://corona-fighting-server.herokuapp.com',
     // server_url: 'http://localhost:5000',
     highlights: [
+        "https://www.youtube.com/embed/jnwtDAtfFzM",
         "https://www.youtube.com/embed/iH0qWDm5GOs",
         "https://www.youtube.com/embed/JbXLEJOW6aM",
         "https://www.youtube.com/embed/XLGJCpREuLA",

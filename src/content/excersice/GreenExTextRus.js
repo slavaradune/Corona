@@ -7,23 +7,16 @@ class BlueExTextRus extends React.Component{
             <div>
                 <li>Разминка (5 мин)</li>
                 <li>Растяжки (5 мин)</li>
-                <li>Кихон по 20 счетов:</li>
-                &emsp; &emsp;1. Сейкен чудан цуки<br/>
-                &emsp; &emsp;2. Уракен шомен учи<br/>
-                &emsp; &emsp;3. Уракен сайя учи<br/>
-                &emsp; &emsp;4. Уракен хиза учи<br/>
-                &emsp; &emsp;5. Сейкен аго учи<br/>
-                &emsp; &emsp;6. Маваши уракен учи<br/>
-                &emsp; &emsp;7. Джодан уке<br/>
-                &emsp; &emsp;8. Сото уке<br/>
-                &emsp; &emsp;9. Учи уке<br/>
-                &emsp; &emsp;10. Гедан барай<br/>
-                &emsp; &emsp;11. Мая киаги<br/>
-                &emsp; &emsp;12. Мая гери<br/>
-                &emsp; &emsp;13. Ёко киаге<br/>
-                &emsp; &emsp;14. Канценцу гери<br/>
-                &emsp; &emsp;15. Ёко гери<br/>
-                &emsp; &emsp;16. Маваши гери<br/>
+                <li>Идо гейко как на видео</li>
+                <li>Ката по 2 раза -
+                    <a href='https://www.youtube.com/watch?v=jo5ZIqxiWT8'> тайкиоку соно сан</a>,
+                    <a href='https://www.youtube.com/watch?v=Dcu1TEp4vFI'> сокуги тайкиоку соно сан</a>,
+                    <a href='https://www.youtube.com/watch?v=Dcu1TEp4vFI'> пинан соно ич</a>,
+                    <a href='https://www.youtube.com/watch?v=Dcu1TEp4vFI'> пинан соно ни</a>,
+                    <a href='https://www.youtube.com/watch?v=_vA_-pt0vW4'> пинан соно сан</a>,
+                    <a href='https://www.youtube.com/watch?v=RC9-nUYhuaA'> янцу, </a>
+                    геку сай дай
+                </li>
                 <li>3 сета:</li>
                 &emsp; &emsp;1. 20 отжиманий<br/>
                 &emsp; &emsp;2. 25 секунд бег на руках на месте<br/>

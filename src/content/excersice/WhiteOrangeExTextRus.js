@@ -7,20 +7,13 @@ class WhiteOrangeExTextRus extends React.Component{
             <div>
                 <li>Разминка (5 мин)</li>
                 <li>Растяжки (5 мин)</li>
-                <li>Кихон по 20 счетов:</li>
-                &emsp; &emsp;1. Сейкен чудан цуки<br/>
-                &emsp; &emsp;2. Уракен шомен учи<br/>
-                &emsp; &emsp;3. Уракен сайя учи<br/>
-                &emsp; &emsp;4. Уракен хиза учи<br/>
-                &emsp; &emsp;5. Сейкен аго учи<br/>
-                &emsp; &emsp;6. Джодан уке<br/>
-                &emsp; &emsp;7. Сото уке<br/>
-                &emsp; &emsp;8. Учи уке<br/>
-                &emsp; &emsp;9. Гедан барай<br/>
-                &emsp; &emsp;10. Мая киаги<br/>
-                &emsp; &emsp;11. Мая гери<br/>
-                &emsp; &emsp;12. Ёко гери<br/>
-                &emsp; &emsp;13. Маваши гери<br/>
+                <li>Идо гейко как на видео</li>
+                <li>Ката по 2 раза -
+                    <a href='https://www.youtube.com/watch?v=CaI6VoOMXAI'> тайкиоку соно ичь</a>,
+                    <a href='https://www.youtube.com/watch?v=U4iBft2gqc0'> тайкиоку соно ни</a>,
+                    <a href='https://www.youtube.com/watch?v=vqlAzV4igPk'> сокуги тайкиоку соно ичь</a>,
+                    <a href='https://www.youtube.com/watch?v=MKZphjiQLSY'> сокуги тайкиоку соно ни </a>
+                    (акцент на правильные стойки)</li>
                 <li>3 сета:</li>
                 &emsp; &emsp;1. 10 отжиманий<br/>
                 &emsp; &emsp;2. 20 секунд бег на руках на месте<br/>

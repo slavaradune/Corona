@@ -7,31 +7,24 @@ class BlueExTextHeb extends React.Component{
             <div>
                 <li>חימום (5 דקות)</li>
                 <li>מתיחות (5 דקות)</li>
-                <li>קיהון 20 פעם כל טכניקה:</li>
-                &emsp; &emsp;1. סייקן צ'ודאן צוקי<br/>
-                &emsp; &emsp;2. שומן אורקן אוצ'י<br/>
-                &emsp; &emsp;3. סאיו אורקן אוצ'י<br/>
-                &emsp; &emsp;4. חיזה אורקן אוצ'י<br/>
-                &emsp; &emsp;5. סייקן אגו אוצ'י<br/>
-                &emsp; &emsp;6. ג'ודאן אוקה<br/>
-                &emsp; &emsp;7. סוטו אוקה<br/>
-                &emsp; &emsp;8. אוצ'י אוקה<br/>
-                &emsp; &emsp;9. גדאן בראי<br/>
-                &emsp; &emsp;10. מאיה קיאגה<br/>
-                &emsp; &emsp;11. מאיה גרי<br/>
-                &emsp; &emsp;12. יוקו קיאגה<br/>
-                &emsp; &emsp;13. קאנצנצו גרי<br/>
-                &emsp; &emsp;14. יוקו גרי<br/>
-                &emsp; &emsp;15. מאוושי גרי<br/>
+                <li>אידו גייקו כמו בסרטון</li>
+                <li>לבצע פעמיים כל קטה -
+                    <a href='https://www.youtube.com/watch?v=U4iBft2gqc0'> טייקיוקו סונו ני</a>,
+                    <a href='https://www.youtube.com/watch?v=jo5ZIqxiWT8'> טייקיוקו סוני סאן</a>,
+                    <a href='https://www.youtube.com/watch?v=MKZphjiQLSY'> סוקוגי טייקיוקו סונו ני</a>,
+                    <a href='https://www.youtube.com/watch?v=Dcu1TEp4vFI'> סוקוגי טייקיוקו סונו סאן</a>,
+                    <a href='https://www.youtube.com/watch?v=Dcu1TEp4vFI'> פינאן סונו איץ'</a>,
+                    (מי שיודע, גם  <a href='https://www.youtube.com/watch?v=Dcu1TEp4vFI'> פינאן סונו ני</a>)
+                </li>
                 <li>3 סטים:</li>
-                &emsp; &emsp;1. 15 שכיבות סמיכה<br/>
-                &emsp; &emsp;2. 25 שניות ריצה על הידיים במקום<br/>
+                &emsp; &emsp;1. 15 שכיבות שמיכה.<br/>
+                &emsp; &emsp;2. 25 שניות ריצה על הידים<br/>
                 &emsp; &emsp;3. 20 שניות מנוחה<br/>
                 <li>4 סטים:</li>
-                &emsp; &emsp;1. 30 שניות שב קום עם קפיצה<br/>
-                &emsp; &emsp;2. 30 שניות כיסא ליד הקיר (תראו בוידאו איך עושים נכון)<br/>
+                &emsp; &emsp;1. 30 שניות שב קום<br/>
+                &emsp; &emsp;2. 30 שניות כיסא ליד הקיר (חשוב מאוד לעשות נכון כמו בסרטון)<br/>
                 &emsp; &emsp;3. 20 שניות מנוחה<br/>
-                <li>35 כפיפות בטן</li>
+                <li>35 הרמות גוף</li>
                 <li>35 הרמות רגליים</li>
             </div>
         )

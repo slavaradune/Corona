@@ -29,14 +29,14 @@ const DICT = {
     yellow_chvideo: 'cTRwOvZxKyA',
     green_chvideo: 'cTRwOvZxKyA',
 
-    ch_video: 'sJg-LhGlOmA',
-    kids4_5_exvideo: 'Lj28qhTtXkU',
-    white_orange_exvideo: 'StVBUslqYt0',
-    blue_exvideo: 'ActVSqTG0Hc',
-    yellow_exvideo: '2MHNeEMYpbw',
-    green_exvideo: 'IRLvtYuDw1M',
+    ch_video: 'tWc4ZVOn08E',
+    kids4_5_exvideo: 'F38qNJbwHcg',
+    white_orange_exvideo: 'g8k8QuAeZDw',
+    blue_exvideo: 'UKgPNSLAaBI',
+    yellow_exvideo: 'UKgPNSLAaBI',
+    green_exvideo: 'uYnDnkeNuHw',
 
-    end_date: Date.parse('2020-04-15 23:59:59')
+    end_date: Date.parse('2020-04-17 23:59:59')
 
 
 };

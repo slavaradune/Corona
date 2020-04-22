@@ -44,6 +44,8 @@ class Standings extends React.Component {
         if (error) {
             return <div>{this.state.error}</div>;
         }
+        let prevPoints = 100000;
+        let place = 0;
         return (
             <Table>
                 <thead>
@@ -55,14 +57,18 @@ class Standings extends React.Component {
                 </tr>
                 </thead>
                 <tbody>
-                {standings.sort((a, b) => b.total_points - a.total_points).map((standing, i) => (
-                    (standing.name !== '') ?
+                {standings.sort((a, b) => b.total_points - a.total_points).map((standing, i) => {
+                    if (parseInt(standing.total_points) < prevPoints) {
+                        prevPoints = parseInt(standing.total_points);
+                        place++;
+                    }
+                    return (standing.name !== '') ?
                         [
                             <tr key={i} onClick={() => {
                                 this.state.selected[i] = (!this.state.selected[i]);
                                 this.setState({selected: this.state.selected})}}>
                                 <td>
-                                    {(i + 1)}
+                                    {place}
                                 </td>
                                 <td>
                                     {standing.name}
@@ -76,7 +82,7 @@ class Standings extends React.Component {
                             </tr>
                             , (this.state.selected[i]) ? <StandingDetails standing_details={standing.standing_details}/> : undefined] :
                         undefined
-                ))}
+                })}
                 </tbody>
             </Table>
         );

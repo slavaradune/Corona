@@ -5,6 +5,9 @@ const DICT = {
     blue_belts: 'חגורות כחולות',
     yellow_belts: 'חגורות צהובות',
     green_belts: 'חגורות ירוקות',
+    wo6_7: 'חגורות לבנות כתומות בני 6-7',
+    wo8: 'חגורות לבנות כתומות בני 8+',
+    yg: 'חגורות צהובות ירוקות',
     exercise: 'משימה',
     challenge: 'אתגר',
     both: 'ביחד',
@@ -17,6 +20,7 @@ const DICT = {
     total_points: 'ניקוד מצטבר',
     title: 'Corona Fight',
     stretching: 'חימום ומתיחות',
+    results: 'תוצאות לפי מקצים',
 
     // youtube ids
     stretching_id: 'AD6igTFbiRE',
@@ -28,14 +32,14 @@ const DICT = {
     yellow_chvideo: 'cTRwOvZxKyA',
     green_chvideo: 'cTRwOvZxKyA',
 
-    ch_video: 'Kv-Ke-63BLY',
-    kids4_5_exvideo: 'd1VzJmhk494',
-    white_orange_exvideo: '_0WDu19VV_Y',
-    blue_exvideo: '_0WDu19VV_Y',
-    yellow_exvideo: '_0WDu19VV_Y',
-    green_exvideo: '_0WDu19VV_Y',
+    ch_video: '9xAMeVnfx4I',
+    kids4_5_exvideo: 'ee02yf3e6pE',
+    white_orange_exvideo: 'utGbt9gsI1U',
+    blue_exvideo: 'nzHs7j_qveA',
+    yellow_exvideo: 'nzHs7j_qveA',
+    green_exvideo: 'nzHs7j_qveA',
 
-    end_date: Date.parse('2020-04-27 23:59:59')
+    end_date: Date.parse('2020-04-29 23:59:59')
 
 };
 

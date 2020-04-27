@@ -4,8 +4,6 @@ import Language from "../Language";
 import AbstractExerciseComponent from "./AbstractExerciseComponent";
 import GreenExTextHeb from '../content/excersice/GreenExTextHeb';
 import GreenExTextRus from '../content/excersice/GreenExTextRus';
-import GreenChTextHeb from '../content/challenge/GreenChTextHeb';
-import GreenChTextRus from '../content/challenge/GreenChTextRus';
 import ChallengeHeb from "../content/challenge/ChallengeHeb";
 import ChallengeRus from "../content/challenge/ChallengeRus";
 

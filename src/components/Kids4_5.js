@@ -4,8 +4,6 @@ import Language from "../Language";
 import AbstractExerciseComponent from "./AbstractExerciseComponent";
 import Kids4_5ExTextHeb from '../content/excersice/Kids4_5ExTextHeb'
 import Kids4_5ExTextRus from '../content/excersice/Kids4_5ExTextRus'
-import Kids4_5ChTextHeb from "../content/challenge/Kids4_5ChTextHeb";
-import Kids4_5ChTextRus from "../content/challenge/Kids4_5ChTextRus";
 import ChallengeHeb from "../content/challenge/ChallengeHeb";
 import ChallengeRus from "../content/challenge/ChallengeRus";
 

@@ -8,6 +8,7 @@ import YellowBelts from "./components/YellowBelts";
 import GreenBelts from "./components/GreenBelts";
 import Standings from "./components/Standings";
 import Stretching from "./components/Stretching";
+import CategoriesStandings from "./components/CategoriesStandings";
 
 class MainRouter extends React.Component {
 
@@ -24,6 +25,7 @@ class MainRouter extends React.Component {
                     <Route path="/yellow_belts" component={YellowBelts}/>
                     <Route path="/green_belts" component={GreenBelts}/>
                     <Route path="/standings" component={Standings}/>
+                    <Route path="/results" component={CategoriesStandings}/>
                 </Switch>
             </Router>
         );

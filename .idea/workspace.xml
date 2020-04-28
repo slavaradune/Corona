@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/CategoriesStandings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Loading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/StandingsTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Consts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Consts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Standings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Standings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dicts/Hebrew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Hebrew.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dicts/Russian.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Russian.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Standings.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Standings.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Standings.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="134">
+              <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -65,23 +55,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StandingsTable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/StandingsTable.js">
+      <file leaf-file-name="WhiteOrangeBelts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/WhiteOrangeBelts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+            <state relative-caret-position="102">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoriesStandings.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/CategoriesStandings.js">
+      <file leaf-file-name="WhiteOrangeExTextRus.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextRus.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="141" lean-forward="true" selection-start-line="10" selection-start-column="141" selection-end-line="10" selection-end-column="146" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhiteOrangeExTextHeb.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChallengeHeb.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChallengeRus.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeRus.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -89,26 +103,8 @@
       <file leaf-file-name="Consts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Consts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hebrew.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dicts/Hebrew.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="306">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -135,6 +131,7 @@
       <find>MainRouter</find>
       <find>className='Video</find>
       <find>exerc</find>
+      <find>br&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>Yello</replace>
@@ -191,9 +188,7 @@
         <option value="$PROJECT_DIR$/src/components/WhiteOrangeBelts.js" />
         <option value="$PROJECT_DIR$/src/components/YellowBelts.js" />
         <option value="$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js" />
-        <option value="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" />
         <option value="$PROJECT_DIR$/src/components/Loading.js" />
-        <option value="$PROJECT_DIR$/src/Consts.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/CategoriesStandings.js" />
         <option value="$PROJECT_DIR$/src/components/StandingsTable.js" />
@@ -202,6 +197,8 @@
         <option value="$PROJECT_DIR$/src/Menu.js" />
         <option value="$PROJECT_DIR$/src/MainRouter.js" />
         <option value="$PROJECT_DIR$/src/components/Standings.js" />
+        <option value="$PROJECT_DIR$/src/Consts.js" />
+        <option value="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" />
       </list>
     </option>
   </component>
@@ -375,25 +372,26 @@
       <workItem from="1587839607658" duration="1771000" />
       <workItem from="1587888237647" duration="3695000" />
       <workItem from="1587933985712" duration="44000" />
-      <workItem from="1588000653529" duration="7713000" />
+      <workItem from="1588000653529" duration="9148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198087000" />
+    <option name="totallyTimeSpent" value="199522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49866667" visible="true" weight="0.13510254" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49866667" visible="true" weight="0.13510254" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32995495" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.4391892" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.4391892" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.16216215" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.16216215" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39977476" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.1277506" />
@@ -403,7 +401,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32995495" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,20 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextRus.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="141" lean-forward="true" selection-start-line="10" selection-start-column="141" selection-end-line="10" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -673,31 +656,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WhiteOrangeBelts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/YellowBelts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeRus.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -715,13 +677,6 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Consts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -779,11 +734,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Standings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="134">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Consts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WhiteOrangeBelts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextRus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="141" lean-forward="true" selection-start-line="10" selection-start-column="141" selection-end-line="10" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeRus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
         </state>
       </provider>
     </entry>

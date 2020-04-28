@@ -33,7 +33,7 @@ const DICT = {
     yellow_chvideo: 'cTRwOvZxKyA',
     green_chvideo: 'cTRwOvZxKyA',
 
-    ch_video: 'Kv-Ke-63BLY',
+    ch_video: '9xAMeVnfx4I',
     kids4_5_exvideo: 'ee02yf3e6pE',
     white_orange_exvideo: 'utGbt9gsI1U',
     blue_exvideo: 'nzHs7j_qveA',

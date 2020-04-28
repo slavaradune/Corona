@@ -46,7 +46,7 @@ class CategoriesStandings extends React.Component {
         let DICT = Language.getDict();
         let data = this.state.standings.filter(d => this.inCategory(d, cat));
         return (
-            <Col md={4} sm={12}>
+            <Col md={4} sm={12} style={{marginTop: '20px'}}>
                 <Card>
                     <Card.Title>{DICT[cat.name]}</Card.Title>
                     <Card.Body>

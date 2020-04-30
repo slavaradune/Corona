@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/BlueExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/BlueExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/BlueExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/GreenExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/GreenExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/GreenExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/WhiteOrangeExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/YellowExTextHeb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/excersice/YellowExTextRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/YellowExTextRus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dicts/Hebrew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Hebrew.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dicts/Russian.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Russian.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -74,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChallengeHeb.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChallengeHeb.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+            <state relative-caret-position="404">
+              <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -101,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChallengeRus.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChallengeRus.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeRus.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="42" column="60" lean-forward="true" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+            <state relative-caret-position="540">
+              <caret line="53" column="16" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="55" selection-end-column="163" />
             </state>
           </provider>
         </entry>
@@ -207,8 +196,8 @@
         <option value="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextRus.js" />
         <option value="$PROJECT_DIR$/src/dicts/Hebrew.js" />
         <option value="$PROJECT_DIR$/src/dicts/Russian.js" />
-        <option value="$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js" />
         <option value="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" />
+        <option value="$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js" />
       </list>
     </option>
   </component>
@@ -393,20 +382,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202594000" />
+    <option name="totallyTimeSpent" value="204539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49866667" visible="true" weight="0.13510254" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49866667" visible="true" weight="0.13510254" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.4391892" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.4391892" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.16216215" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.16216215" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39977476" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.1277506" />
@@ -783,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dicts/Russian.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -799,8 +781,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeRus.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="42" column="60" lean-forward="true" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+        <state relative-caret-position="540">
+          <caret line="53" column="16" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="55" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
         </state>
       </provider>
     </entry>

@@ -37,8 +37,10 @@ class StandingDetails extends React.Component {
                     <th/>
                     <th>{DICT.date}</th>
                     {/*<th>{DICT.exercise}</th>*/}
-                    <th>{DICT.challenge}</th>
-                    <th>{DICT.both}</th>
+                    <th/>
+                    <th>{DICT.points}</th>
+                    {/*<th>{DICT.challenge}</th>*/}
+                    {/*<th>{DICT.both}</th>*/}
                 </tr>,
                 standing_details.map((detail, i) => (
                         <tr key={i} style={{background: '#B3E2CA'}}>
@@ -49,12 +51,13 @@ class StandingDetails extends React.Component {
                             {/*<td>*/}
                                 {/*{detail.exercise}*/}
                             {/*</td>*/}
+                            <td/>
                             <td>
                                 {detail.challenge}
                             </td>
-                            <td>
-                                {calcSum(detail.exercise, detail.challenge)}
-                            </td>
+                            {/*<td>*/}
+                                {/*{calcSum(detail.exercise, detail.challenge)}*/}
+                            {/*</td>*/}
                         </tr>
                 ))
                 ]

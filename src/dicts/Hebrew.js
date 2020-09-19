@@ -10,6 +10,7 @@ const DICT = {
     exercise: 'משימה',
     challenge: 'אתגר',
     both: 'ביחד',
+    points: 'ציון',
     date: 'תאריך',
     time_till_the_end: 'זמן עד סוף המשימה: ',
     time_elapsed: 'המשימה נגמרה, נא להמתין למשימה הבאה',

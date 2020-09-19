@@ -10,6 +10,7 @@ const DICT = {
     exercise: 'Задание',
     challenge: 'Челлендж',
     both: 'Всего',
+    points: 'Оценка',
     date: 'Число',
     time_till_the_end: 'Время до конца задания: ',
     time_elapsed: 'Задание окончено, просим подождать следующего задания',

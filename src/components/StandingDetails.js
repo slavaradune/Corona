@@ -34,19 +34,21 @@ class StandingDetails extends React.Component {
         return (
             [
                 <tr style={{background: '#9CE6C1'}}>
+                    <th/>
                     <th>{DICT.date}</th>
-                    <th>{DICT.exercise}</th>
+                    {/*<th>{DICT.exercise}</th>*/}
                     <th>{DICT.challenge}</th>
                     <th>{DICT.both}</th>
                 </tr>,
                 standing_details.map((detail, i) => (
                         <tr key={i} style={{background: '#B3E2CA'}}>
+                            <td/>
                             <td>
                                 {detail.date}
                             </td>
-                            <td>
-                                {detail.exercise}
-                            </td>
+                            {/*<td>*/}
+                                {/*{detail.exercise}*/}
+                            {/*</td>*/}
                             <td>
                                 {detail.challenge}
                             </td>

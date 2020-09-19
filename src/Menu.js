@@ -41,9 +41,9 @@ class Menu extends React.Component {
                     <Nav>
                         <Nav.Link href="/green_belts" style={{color: 'green'}}>{DICT.green_belts}</Nav.Link>
                     </Nav>
-                    <Nav>
-                        <Nav.Link href="/standings" style={{color: 'red'}}>{DICT.standings}</Nav.Link>
-                    </Nav>
+                    {/*<Nav>*/}
+                        {/*<Nav.Link href="/standings" style={{color: 'red'}}>{DICT.standings}</Nav.Link>*/}
+                    {/*</Nav>*/}
                     <Nav>
                         <Nav.Link href="/results" style={{color: 'violet'}}>{DICT.results}</Nav.Link>
                     </Nav>

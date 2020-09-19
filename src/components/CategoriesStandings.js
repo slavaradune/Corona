@@ -14,11 +14,9 @@ class CategoriesStandings extends React.Component {
         };
 
         this.categories = [
-            {name: 'kids4_5', minAge:4, maxAge:5, minRank: 0, maxRank: 120},
-            {name: 'wo6_7', minAge:6, maxAge:7, minRank: 0, maxRank: 2},
-            {name: 'wo8', minAge:8, maxAge:120, minRank: 0, maxRank: 2},
-            {name: 'blue_belts', minAge:0, maxAge:120, minRank: 3, maxRank: 4},
-            {name: 'yg', minAge:0, maxAge:120, minRank: 5, maxRank: 8},
+            {name: 'kids4_5', minAge:4, maxAge:5},
+            {name: 'kids6_9', minAge:6, maxAge:9},
+            {name: '10+', minAge:10, maxAge:120},
         ]
     }
 
@@ -38,8 +36,7 @@ class CategoriesStandings extends React.Component {
     }
 
     inCategory(part, cat) {
-        return part.age <= cat.maxAge && part.age >= cat.minAge &&
-            part.rank <= cat.maxRank && part.rank >= cat.minRank
+        return part.age <= cat.maxAge && part.age >= cat.minAge
     }
 
     buildCard(cat) {
@@ -50,7 +47,7 @@ class CategoriesStandings extends React.Component {
                 <Card>
                     <Card.Title>{DICT[cat.name]}</Card.Title>
                     <Card.Body>
-                        <StandingsTable standings={data} maxResults={10}/>
+                        <StandingsTable standings={data} maxResults={undefined}/>
                     </Card.Body>
                 </Card>
             </Col>

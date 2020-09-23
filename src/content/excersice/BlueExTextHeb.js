@@ -8,8 +8,11 @@ class BlueExTextHeb extends React.Component{
                 <li>חימום (5 דקות)</li>
                 <li>מתיחות (5 דקות)</li>
                 <li>אידו גייקו כמו בסרטון</li>
-                <li>50 סמוך קום (באבי)</li>
-                <li>50 בטן עם ידיים בX על הכתפיים</li>
+                <li>פרמיד מ1 עד 10:</li>
+                &emsp; &emsp;1. שכיבות שמיכה<br/>
+                &emsp; &emsp;2. שב קום עם קפיצה<br/>
+                &emsp; &emsp;3. בטן רגילה<br/>
+                &emsp; &emsp;4. גב<br/>
             </div>
         )
     }

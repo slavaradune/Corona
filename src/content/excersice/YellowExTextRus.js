@@ -9,11 +9,10 @@ class YellowExTextRus extends React.Component{
                     <li>Разминка (5 мин)</li>
                     <li>Растяжки (5 мин)</li>
                     <li>Идо гейко как показанно в ролике</li>
-                    <li>Пирамида от 1ого до 15и:</li>
-                    &emsp; &emsp;1. Отжимание<br/>
-                    &emsp; &emsp;2. Приседание<br/>
-                    &emsp; &emsp;3. Пресс<br/>
-                    &emsp; &emsp;4. Спина<br/>
+                    <li>2 минуты:</li>
+                    &emsp; &emsp;1. Отжимание + 3 ударашита цуки<br/>
+                    &emsp; &emsp;2. Пресс + 2 удара цуки<br/>
+                    &emsp; &emsp;3. Смена ног в прыжке с ударом гиаку цуки<br/>
                 </div>
             </div>
         )

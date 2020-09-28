@@ -8,11 +8,10 @@ class BlueExTextHeb extends React.Component{
                 <li>חימום (5 דקות)</li>
                 <li>מתיחות (5 דקות)</li>
                 <li>אידו גייקו כמו בסרטון</li>
-                <li>פרמיד מ1 עד 10:</li>
-                &emsp; &emsp;1. שכיבות שמיכה<br/>
-                &emsp; &emsp;2. שב קום עם קפיצה<br/>
-                &emsp; &emsp;3. בטן רגילה<br/>
-                &emsp; &emsp;4. גב<br/>
+                <li>דקה וחצי כל תרגיל:</li>
+                &emsp; &emsp;1. שכיבות שמיכה + 3 שיטה צוקי<br/>
+                &emsp; &emsp; 2. בטן רגילה + 2 מקות צוקי למעלה<br/>
+                &emsp; &emsp;3. שב קום עם קפיצה + החפות רגליים בקפיצה עם גיאקו צוקי<br/>
             </div>
         )
     }

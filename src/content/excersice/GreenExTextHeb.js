@@ -11,11 +11,16 @@ class GreenExTextHeb extends React.Component{
                 &emsp; &emsp;1. <a href={'https://www.youtube.com/watch?v=_vA_-pt0vW4'}>פינאן סונו סאן</a><br/>
                 &emsp; &emsp;2. <a href={'https://www.youtube.com/watch?v=RC9-nUYhuaA'}>יאנצו</a><br/>
                 &emsp; &emsp;3. סאנצ'ין<br/>
-                <li>כושר:</li>
-                &emsp; &emsp;1. 30 שב קום עם קפיצה עם כדור מעל הראש + 30 שב קום עם סיבוב עם כדור מעל הראש<br/>
-                &emsp; &emsp;2. 60 שכיבות שמיכה על כרית + החלפת ידיים<br/>
-                &emsp; &emsp;3. 6 סטים: 20 שניות החזקת כדור בין הרגליים באוויר + 20 הרמות רגליים עם כדור<br/>
-                &emsp; &emsp;4. 20 שב קום עם קפיצה עם 2 שתי שניות למטה<br/>
+                <li>טבאטה - 40 שניות תרגיל, 20 שניות מנוחה:</li>
+                &emsp; &emsp;1. שכיבות שמיכה עם קפיצה<br/>
+                &emsp; &emsp;2. שתי קפיצות למתה + קפיצה גבוהה<br/>
+                &emsp; &emsp;3. מספריים מאוזנות<br/>
+                &emsp; &emsp;4. על הבטן: 2 מכות למתה מכה שלישית למעלה<br/>
+                &emsp; &emsp;5. החלפות אגרוף - כף יד<br/>
+                &emsp; &emsp;6. מכרעים צידיים<br/>
+                &emsp; &emsp;7. בטן אלכסונים<br/>
+                &emsp; &emsp;8. בשכיבה על הבטן הרמות רגליים למעלה<br/>
+                &emsp; &emsp;9. קומבינציה של באבי עם שכיבה על הגב<br/>
             </div>
         )
     }

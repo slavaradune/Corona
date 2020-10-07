@@ -11,16 +11,10 @@ class BlueExTextHeb extends React.Component{
                 &emsp; &emsp;1. <a href={'https://www.youtube.com/watch?v=gXaQy_AEGRc'}>פינאן סונו איץ'</a><br/>
                 &emsp; &emsp;2. <a href={'https://www.youtube.com/watch?v=WAht2xv__Ts'}>פינאן סונו ני</a><br/>
                 &emsp; &emsp;3. <a href={'https://www.youtube.com/watch?v=vqlAzV4igPk'}>סוקוגי טאיקיוקו סונו איץ'</a><br/>
-                <li>טבאטה - 40 שניות תרגיל, 20 שניות מנוחה:</li>
-                &emsp; &emsp;1. שכיבות שמיכה עם קפיצה<br/>
-                &emsp; &emsp;2. שתי קפיצות למתה + קפיצה גבוהה<br/>
-                &emsp; &emsp;3. מספריים מאוזנות<br/>
-                &emsp; &emsp;4. על הבטן: 2 מכות למתה מכה שלישית למעלה<br/>
-                &emsp; &emsp;5. החלפות אגרוף - כף יד<br/>
-                &emsp; &emsp;6. מכרעים צידיים<br/>
-                &emsp; &emsp;7. בטן אלכסונים<br/>
-                &emsp; &emsp;8. בשכיבה על הבטן הרמות רגליים למעלה<br/>
-                &emsp; &emsp;9. קומבינציה של באבי עם שכיבה על הגב<br/>
+                <li>על כל צד עושים 3 תרגילים של 1 דקה עם 30 שניות מנוחה ביניהם:</li>
+                &emsp; &emsp;1. בעיטות גיאקו מאוושי גרי<br/>
+                &emsp; &emsp;2. מקות גיאקו צוקי<br/>
+                &emsp; &emsp;3. בעיטות גיאקו חיזה גרי<br/>
             </div>
         )
     }

@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="" />
+    <list default="true" id="5e648293-a25d-419c-be0e-75ad48332f99" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/ChallengeHeb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/challenge/ChallengeRus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/excersice/Kids4_5ExTextHeb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dicts/Hebrew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicts/Hebrew.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,6 +195,8 @@
       <workItem from="1601951536120" duration="33000" />
       <workItem from="1602088352766" duration="3312000" />
       <workItem from="1602346731709" duration="1512000" />
+      <workItem from="1602394110020" duration="163000" />
+      <workItem from="1602523151099" duration="675000" />
     </task>
     <servers />
   </component>

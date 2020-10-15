@@ -37,6 +37,7 @@ class StandingsTable extends React.Component {
         }
         let prevPoints = 100000;
         let place = 0;
+        let placeToPrint = 0;
         return (
             <Table>
                 <thead>
@@ -52,9 +53,14 @@ class StandingsTable extends React.Component {
                     if (this.state.maxResults && i >= this.state.maxResults) {
                         return;
                     }
+                    let newPlace = false;
+                    place++;
                     if (parseInt(standing.total_points) < prevPoints) {
                         prevPoints = parseInt(standing.total_points);
-                        place++;
+                        newPlace = true;
+                    }
+                    if (newPlace) {
+                        placeToPrint = place;
                     }
                     return (standing.name !== '') ?
                         [
@@ -62,7 +68,7 @@ class StandingsTable extends React.Component {
                                 this.state.selected[i] = (!this.state.selected[i]);
                                 this.setState({selected: this.state.selected})}}>
                                 <td>
-                                    {place}
+                                    {placeToPrint}
                                 </td>
                                 <td>
                                     {standing.name}

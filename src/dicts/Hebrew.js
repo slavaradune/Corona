@@ -33,14 +33,14 @@ const DICT = {
     // yellow_chvideo: 'cTRwOvZxKyA',
     // green_chvideo: 'cTRwOvZxKyA',
 
-    ch_video: '3U4fZ9JGIpw',
+    ch_video: 'cXYVdLu8Rig',
     kids4_5_exvideo: '2vJGvce9e7M',
-    white_orange_exvideo: 'eFxQ6Zmk1x4',
-    blue_exvideo: 'eFxQ6Zmk1x4',
-    yellow_exvideo: 'eFxQ6Zmk1x4',
-    green_exvideo: 'eFxQ6Zmk1x4',
+    white_orange_exvideo: 'fPk3dejSIqk',
+    blue_exvideo: 'fPk3dejSIqk',
+    yellow_exvideo: 'fPk3dejSIqk',
+    green_exvideo: 'fPk3dejSIqk',
 
-    end_date: Date.parse('2020-10-23 23:59:59'),
+    end_date: Date.parse('2020-10-26 23:59:59'),
 
 
     timeStringBuilder : (days, hours, minutes, seconds) => {
